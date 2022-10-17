@@ -1,0 +1,1 @@
+<b>Kapasitas Ruangan</b> : 35 orang
